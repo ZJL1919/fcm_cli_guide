@@ -13,7 +13,7 @@ We present the Focused Concept Miner (FCM) Command Line Interface (CLI), an expl
 
 In this guide, we provide a step-by-step guide on setup, features, implementation, and troubleshooting of FCM CLI. We also discuss a general approach to explore data and filter results to obtain meaningful insights using FCM's __Grid Search__ and __Visualize__ features.
 
-Becoming comfortable with the features and processes we discuss in the following sections will enable you to rapidly extract insights from unstructured data in a fraction of the time that involved, multi-step approaches require. We encourage you to experiment with creative applications to glean insights and develop novel hypotheses from rich unstructured data.
+Becoming comfortable with the features and processes we discuss in the guide will enable you to rapidly extract insights from unstructured data in a fraction of the time that involved, multi-step approaches require. We encourage you to experiment with creative applications to glean insights and develop novel hypotheses from rich unstructured data.
 
 The guide notebook covers the following:
 
