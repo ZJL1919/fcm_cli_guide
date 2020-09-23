@@ -4,7 +4,7 @@ By [Eric Zhou](https://ericbzhou.github.io/)<br>
 **Version**: September 2020
 ------
 
-Find the [Focused Concept Miner Command Line Interface](https://github.com/cygit/fcm) files here.
+Find the [Focused Concept Miner Command Line Interface](https://github.com/ecfm/fcm_cli) files here.
 
 ------
 ## About
